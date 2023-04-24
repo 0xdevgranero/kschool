@@ -1,0 +1,2620 @@
+[
+    {
+        "pais" "Afghanistan",
+        "capital": "Kabul",
+        "idiomas": [
+            "Pashto",
+            "Uzbek",
+            "Turkmen"
+        ],
+        "poblacion": 27657145,
+        "bandera": "https://restcountries.eu/data/afg.svg",
+        "moneda": "Afghan afghani"
+    },
+    {
+        "pais" "Åland Islands",
+        "capital": "Mariehamn",
+        "idiomas": [
+            "Swedish"
+        ],
+        "poblacion": 28875,
+        "bandera": "https://restcountries.eu/data/ala.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Albania",
+        "capital": "Tirana",
+        "idiomas": [
+            "Albanian"
+        ],
+        "poblacion": 2886026,
+        "bandera": "https://restcountries.eu/data/alb.svg",
+        "moneda": "Albanian lek"
+    },
+    {
+        "pais" "Algeria",
+        "capital": "Algiers",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 40400000,
+        "bandera": "https://restcountries.eu/data/dza.svg",
+        "moneda": "Algerian dinar"
+    },
+    {
+        "pais" "American Samoa",
+        "capital": "Pago Pago",
+        "idiomas": [
+            "English",
+            "Samoan"
+        ],
+        "poblacion": 57100,
+        "bandera": "https://restcountries.eu/data/asm.svg",
+        "moneda": "United State Dollar"
+    },
+    {
+        "pais" "Andorra",
+        "capital": "Andorra la Vella",
+        "idiomas": [
+            "Catalan"
+        ],
+        "poblacion": 78014,
+        "bandera": "https://restcountries.eu/data/and.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Angola",
+        "capital": "Luanda",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 25868000,
+        "bandera": "https://restcountries.eu/data/ago.svg",
+        "moneda": "Angolan kwanza"
+    },
+    {
+        "pais" "Anguilla",
+        "capital": "The Valley",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 13452,
+        "bandera": "https://restcountries.eu/data/aia.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Antarctica",
+        "capital": "",
+        "idiomas": [
+            "English",
+            "Russian"
+        ],
+        "poblacion": 1000,
+        "bandera": "https://restcountries.eu/data/ata.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 86295,
+        "bandera": "https://restcountries.eu/data/atg.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Argentina",
+        "capital": "Buenos Aires",
+        "idiomas": [
+            "Spanish",
+            "Guaraní"
+        ],
+        "poblacion": 43590400,
+        "bandera": "https://restcountries.eu/data/arg.svg",
+        "moneda": "Argentine peso"
+    },
+    {
+        "pais" "Armenia",
+        "capital": "Yerevan",
+        "idiomas": [
+            "Armenian",
+            "Russian"
+        ],
+        "poblacion": 2994400,
+        "bandera": "https://restcountries.eu/data/arm.svg",
+        "moneda": "Armenian dram"
+    },
+    {
+        "pais" "Aruba",
+        "capital": "Oranjestad",
+        "idiomas": [
+            "Dutch",
+            "(Eastern) Punjabi"
+        ],
+        "poblacion": 107394,
+        "bandera": "https://restcountries.eu/data/abw.svg",
+        "moneda": "Aruban florin"
+    },
+    {
+        "pais" "Australia",
+        "capital": "Canberra",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 24117360,
+        "bandera": "https://restcountries.eu/data/aus.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Austria",
+        "capital": "Vienna",
+        "idiomas": [
+            "German"
+        ],
+        "poblacion": 8725931,
+        "bandera": "https://restcountries.eu/data/aut.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Azerbaijan",
+        "capital": "Baku",
+        "idiomas": [
+            "Azerbaijani"
+        ],
+        "poblacion": 9730500,
+        "bandera": "https://restcountries.eu/data/aze.svg",
+        "moneda": "Azerbaijani manat"
+    },
+    {
+        "pais" "Bahamas",
+        "capital": "Nassau",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 378040,
+        "bandera": "https://restcountries.eu/data/bhs.svg",
+        "moneda": "Bahamian dollar"
+    },
+    {
+        "pais" "Bahrain",
+        "capital": "Manama",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 1404900,
+        "bandera": "https://restcountries.eu/data/bhr.svg",
+        "moneda": "Bahraini dinar"
+    },
+    {
+        "pais" "Bangladesh",
+        "capital": "Dhaka",
+        "idiomas": [
+            "Bengali"
+        ],
+        "poblacion": 161006790,
+        "bandera": "https://restcountries.eu/data/bgd.svg",
+        "moneda": "Bangladeshi taka"
+    },
+    {
+        "pais" "Barbados",
+        "capital": "Bridgetown",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 285000,
+        "bandera": "https://restcountries.eu/data/brb.svg",
+        "moneda": "Barbadian dollar"
+    },
+    {
+        "pais" "Belarus",
+        "capital": "Minsk",
+        "idiomas": [
+            "Belarusian",
+            "Russian"
+        ],
+        "poblacion": 9498700,
+        "bandera": "https://restcountries.eu/data/blr.svg",
+        "moneda": "New Belarusian ruble"
+    },
+    {
+        "pais" "Belgium",
+        "capital": "Brussels",
+        "idiomas": [
+            "Dutch",
+            "French",
+            "German"
+        ],
+        "poblacion": 11319511,
+        "bandera": "https://restcountries.eu/data/bel.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Belize",
+        "capital": "Belmopan",
+        "idiomas": [
+            "English",
+            "Spanish"
+        ],
+        "poblacion": 370300,
+        "bandera": "https://restcountries.eu/data/blz.svg",
+        "moneda": "Belize dollar"
+    },
+    {
+        "pais" "Benin",
+        "capital": "Porto-Novo",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 10653654,
+        "bandera": "https://restcountries.eu/data/ben.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Bermuda",
+        "capital": "Hamilton",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 61954,
+        "bandera": "https://restcountries.eu/data/bmu.svg",
+        "moneda": "Bermudian dollar"
+    },
+    {
+        "pais" "Bhutan",
+        "capital": "Thimphu",
+        "idiomas": [
+            "Dzongkha"
+        ],
+        "poblacion": 775620,
+        "bandera": "https://restcountries.eu/data/btn.svg",
+        "moneda": "Bhutanese ngultrum"
+    },
+    {
+        "pais" "Bolivia (Plurinational State of)",
+        "capital": "Sucre",
+        "idiomas": [
+            "Spanish",
+            "Aymara",
+            "Quechua"
+        ],
+        "poblacion": 10985059,
+        "bandera": "https://restcountries.eu/data/bol.svg",
+        "moneda": "Bolivian boliviano"
+    },
+    {
+        "pais" "Bonaire, Sint Eustatius and Saba",
+        "capital": "Kralendijk",
+        "idiomas": [
+            "Dutch"
+        ],
+        "poblacion": 17408,
+        "bandera": "https://restcountries.eu/data/bes.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "idiomas": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ],
+        "poblacion": 3531159,
+        "bandera": "https://restcountries.eu/data/bih.svg",
+        "moneda": "Bosnia and Herzegovina convertible mark"
+    },
+    {
+        "pais" "Botswana",
+        "capital": "Gaborone",
+        "idiomas": [
+            "English",
+            "Tswana"
+        ],
+        "poblacion": 2141206,
+        "bandera": "https://restcountries.eu/data/bwa.svg",
+        "moneda": "Botswana pula"
+    },
+    {
+        "pais" "Bouvet Island",
+        "capital": "",
+        "idiomas": [
+            "Norwegian",
+            "Norwegian Bokmål",
+            "Norwegian Nynorsk"
+        ],
+        "poblacion": 0,
+        "bandera": "https://restcountries.eu/data/bvt.svg",
+        "moneda": "Norwegian krone"
+    },
+    {
+        "pais" "Brazil",
+        "capital": "Brasília",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 206135893,
+        "bandera": "https://restcountries.eu/data/bra.svg",
+        "moneda": "Brazilian real"
+    },
+    {
+        "pais" "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 3000,
+        "bandera": "https://restcountries.eu/data/iot.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "United States Minor Outlying Islands",
+        "capital": "",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 300,
+        "bandera": "https://restcountries.eu/data/umi.svg",
+        "moneda": "United States Dollar"
+    },
+    {
+        "pais" "Virgin Islands (British)",
+        "capital": "Road Town",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 28514,
+        "bandera": "https://restcountries.eu/data/vgb.svg",
+        "moneda": "[D]"
+    },
+    {
+        "pais" "Virgin Islands (U.S.)",
+        "capital": "Charlotte Amalie",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 114743,
+        "bandera": "https://restcountries.eu/data/vir.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Brunei Darussalam",
+        "capital": "Bandar Seri Begawan",
+        "idiomas": [
+            "Malay"
+        ],
+        "poblacion": 411900,
+        "bandera": "https://restcountries.eu/data/brn.svg",
+        "moneda": "Brunei dollar"
+    },
+    {
+        "pais" "Bulgaria",
+        "capital": "Sofia",
+        "idiomas": [
+            "Bulgarian"
+        ],
+        "poblacion": 7153784,
+        "bandera": "https://restcountries.eu/data/bgr.svg",
+        "moneda": "Bulgarian lev"
+    },
+    {
+        "pais" "Burkina Faso",
+        "capital": "Ouagadougou",
+        "idiomas": [
+            "French",
+            "Fula"
+        ],
+        "poblacion": 19034397,
+        "bandera": "https://restcountries.eu/data/bfa.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Burundi",
+        "capital": "Bujumbura",
+        "idiomas": [
+            "French",
+            "Kirundi"
+        ],
+        "poblacion": 10114505,
+        "bandera": "https://restcountries.eu/data/bdi.svg",
+        "moneda": "Burundian franc"
+    },
+    {
+        "pais" "Cambodia",
+        "capital": "Phnom Penh",
+        "idiomas": [
+            "Khmer"
+        ],
+        "poblacion": 15626444,
+        "bandera": "https://restcountries.eu/data/khm.svg",
+        "moneda": "Cambodian riel"
+    },
+    {
+        "pais" "Cameroon",
+        "capital": "Yaoundé",
+        "idiomas": [
+            "English",
+            "French"
+        ],
+        "poblacion": 22709892,
+        "bandera": "https://restcountries.eu/data/cmr.svg",
+        "moneda": "Central African CFA franc"
+    },
+    {
+        "pais" "Canada",
+        "capital": "Ottawa",
+        "idiomas": [
+            "English",
+            "French"
+        ],
+        "poblacion": 36155487,
+        "bandera": "https://restcountries.eu/data/can.svg",
+        "moneda": "Canadian dollar"
+    },
+    {
+        "pais" "Cabo Verde",
+        "capital": "Praia",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 531239,
+        "bandera": "https://restcountries.eu/data/cpv.svg",
+        "moneda": "Cape Verdean escudo"
+    },
+    {
+        "pais" "Cayman Islands",
+        "capital": "George Town",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 58238,
+        "bandera": "https://restcountries.eu/data/cym.svg",
+        "moneda": "Cayman Islands dollar"
+    },
+    {
+        "pais" "Central African Republic",
+        "capital": "Bangui",
+        "idiomas": [
+            "French",
+            "Sango"
+        ],
+        "poblacion": 4998000,
+        "bandera": "https://restcountries.eu/data/caf.svg",
+        "moneda": "Central African CFA franc"
+    },
+    {
+        "pais" "Chad",
+        "capital": "N'Djamena",
+        "idiomas": [
+            "French",
+            "Arabic"
+        ],
+        "poblacion": 14497000,
+        "bandera": "https://restcountries.eu/data/tcd.svg",
+        "moneda": "Central African CFA franc"
+    },
+    {
+        "pais" "Chile",
+        "capital": "Santiago",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 18191900,
+        "bandera": "https://restcountries.eu/data/chl.svg",
+        "moneda": "Chilean peso"
+    },
+    {
+        "pais" "China",
+        "capital": "Beijing",
+        "idiomas": [
+            "Chinese"
+        ],
+        "poblacion": 1377422166,
+        "bandera": "https://restcountries.eu/data/chn.svg",
+        "moneda": "Chinese yuan"
+    },
+    {
+        "pais" "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 2072,
+        "bandera": "https://restcountries.eu/data/cxr.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 550,
+        "bandera": "https://restcountries.eu/data/cck.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Colombia",
+        "capital": "Bogotá",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 48759958,
+        "bandera": "https://restcountries.eu/data/col.svg",
+        "moneda": "Colombian peso"
+    },
+    {
+        "pais" "Comoros",
+        "capital": "Moroni",
+        "idiomas": [
+            "Arabic",
+            "French"
+        ],
+        "poblacion": 806153,
+        "bandera": "https://restcountries.eu/data/com.svg",
+        "moneda": "Comorian franc"
+    },
+    {
+        "pais" "Congo",
+        "capital": "Brazzaville",
+        "idiomas": [
+            "French",
+            "Lingala"
+        ],
+        "poblacion": 4741000,
+        "bandera": "https://restcountries.eu/data/cog.svg",
+        "moneda": "Central African CFA franc"
+    },
+    {
+        "pais" "Congo (Democratic Republic of the)",
+        "capital": "Kinshasa",
+        "idiomas": [
+            "French",
+            "Lingala",
+            "Kongo",
+            "Swahili",
+            "Luba-Katanga"
+        ],
+        "poblacion": 85026000,
+        "bandera": "https://restcountries.eu/data/cod.svg",
+        "moneda": "Congolese franc"
+    },
+    {
+        "pais" "Cook Islands",
+        "capital": "Avarua",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 18100,
+        "bandera": "https://restcountries.eu/data/cok.svg",
+        "moneda": "New Zealand dollar"
+    },
+    {
+        "pais" "Costa Rica",
+        "capital": "San José",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 4890379,
+        "bandera": "https://restcountries.eu/data/cri.svg",
+        "moneda": "Costa Rican colón"
+    },
+    {
+        "pais" "Croatia",
+        "capital": "Zagreb",
+        "idiomas": [
+            "Croatian"
+        ],
+        "poblacion": 4190669,
+        "bandera": "https://restcountries.eu/data/hrv.svg",
+        "moneda": "Croatian kuna"
+    },
+    {
+        "pais" "Cuba",
+        "capital": "Havana",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 11239004,
+        "bandera": "https://restcountries.eu/data/cub.svg",
+        "moneda": "Cuban convertible peso"
+    },
+    {
+        "pais" "Curaçao",
+        "capital": "Willemstad",
+        "idiomas": [
+            "Dutch",
+            "(Eastern) Punjabi",
+            "English"
+        ],
+        "poblacion": 154843,
+        "bandera": "https://restcountries.eu/data/cuw.svg",
+        "moneda": "Netherlands Antillean guilder"
+    },
+    {
+        "pais" "Cyprus",
+        "capital": "Nicosia",
+        "idiomas": [
+            "Greek (modern)",
+            "Turkish",
+            "Armenian"
+        ],
+        "poblacion": 847000,
+        "bandera": "https://restcountries.eu/data/cyp.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Czech Republic",
+        "capital": "Prague",
+        "idiomas": [
+            "Czech",
+            "Slovak"
+        ],
+        "poblacion": 10558524,
+        "bandera": "https://restcountries.eu/data/cze.svg",
+        "moneda": "Czech koruna"
+    },
+    {
+        "pais" "Denmark",
+        "capital": "Copenhagen",
+        "idiomas": [
+            "Danish"
+        ],
+        "poblacion": 5717014,
+        "bandera": "https://restcountries.eu/data/dnk.svg",
+        "moneda": "Danish krone"
+    },
+    {
+        "pais" "Djibouti",
+        "capital": "Djibouti",
+        "idiomas": [
+            "French",
+            "Arabic"
+        ],
+        "poblacion": 900000,
+        "bandera": "https://restcountries.eu/data/dji.svg",
+        "moneda": "Djiboutian franc"
+    },
+    {
+        "pais" "Dominica",
+        "capital": "Roseau",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 71293,
+        "bandera": "https://restcountries.eu/data/dma.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Dominican Republic",
+        "capital": "Santo Domingo",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 10075045,
+        "bandera": "https://restcountries.eu/data/dom.svg",
+        "moneda": "Dominican peso"
+    },
+    {
+        "pais" "Ecuador",
+        "capital": "Quito",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 16545799,
+        "bandera": "https://restcountries.eu/data/ecu.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Egypt",
+        "capital": "Cairo",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 91290000,
+        "bandera": "https://restcountries.eu/data/egy.svg",
+        "moneda": "Egyptian pound"
+    },
+    {
+        "pais" "El Salvador",
+        "capital": "San Salvador",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 6520675,
+        "bandera": "https://restcountries.eu/data/slv.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Equatorial Guinea",
+        "capital": "Malabo",
+        "idiomas": [
+            "Spanish",
+            "French"
+        ],
+        "poblacion": 1222442,
+        "bandera": "https://restcountries.eu/data/gnq.svg",
+        "moneda": "Central African CFA franc"
+    },
+    {
+        "pais" "Eritrea",
+        "capital": "Asmara",
+        "idiomas": [
+            "Tigrinya",
+            "Arabic",
+            "English"
+        ],
+        "poblacion": 5352000,
+        "bandera": "https://restcountries.eu/data/eri.svg",
+        "moneda": "Eritrean nakfa"
+    },
+    {
+        "pais" "Estonia",
+        "capital": "Tallinn",
+        "idiomas": [
+            "Estonian"
+        ],
+        "poblacion": 1315944,
+        "bandera": "https://restcountries.eu/data/est.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Ethiopia",
+        "capital": "Addis Ababa",
+        "idiomas": [
+            "Amharic"
+        ],
+        "poblacion": 92206005,
+        "bandera": "https://restcountries.eu/data/eth.svg",
+        "moneda": "Ethiopian birr"
+    },
+    {
+        "pais" "Falkland Islands (Malvinas)",
+        "capital": "Stanley",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 2563,
+        "bandera": "https://restcountries.eu/data/flk.svg",
+        "moneda": "Falkland Islands pound"
+    },
+    {
+        "pais" "Faroe Islands",
+        "capital": "Tórshavn",
+        "idiomas": [
+            "Faroese"
+        ],
+        "poblacion": 49376,
+        "bandera": "https://restcountries.eu/data/fro.svg",
+        "moneda": "Danish krone"
+    },
+    {
+        "pais" "Fiji",
+        "capital": "Suva",
+        "idiomas": [
+            "English",
+            "Fijian",
+            "Hindi",
+            "Urdu"
+        ],
+        "poblacion": 867000,
+        "bandera": "https://restcountries.eu/data/fji.svg",
+        "moneda": "Fijian dollar"
+    },
+    {
+        "pais" "Finland",
+        "capital": "Helsinki",
+        "idiomas": [
+            "Finnish",
+            "Swedish"
+        ],
+        "poblacion": 5491817,
+        "bandera": "https://restcountries.eu/data/fin.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "France",
+        "capital": "Paris",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 66710000,
+        "bandera": "https://restcountries.eu/data/fra.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "French Guiana",
+        "capital": "Cayenne",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 254541,
+        "bandera": "https://restcountries.eu/data/guf.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "French Polynesia",
+        "capital": "Papeetē",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 271800,
+        "bandera": "https://restcountries.eu/data/pyf.svg",
+        "moneda": "CFP franc"
+    },
+    {
+        "pais" "French Southern Territories",
+        "capital": "Port-aux-Français",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 140,
+        "bandera": "https://restcountries.eu/data/atf.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Gabon",
+        "capital": "Libreville",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 1802278,
+        "bandera": "https://restcountries.eu/data/gab.svg",
+        "moneda": "Central African CFA franc"
+    },
+    {
+        "pais" "Gambia",
+        "capital": "Banjul",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 1882450,
+        "bandera": "https://restcountries.eu/data/gmb.svg",
+        "moneda": "Gambian dalasi"
+    },
+    {
+        "pais" "Georgia",
+        "capital": "Tbilisi",
+        "idiomas": [
+            "Georgian"
+        ],
+        "poblacion": 3720400,
+        "bandera": "https://restcountries.eu/data/geo.svg",
+        "moneda": "Georgian Lari"
+    },
+    {
+        "pais" "Germany",
+        "capital": "Berlin",
+        "idiomas": [
+            "German"
+        ],
+        "poblacion": 81770900,
+        "bandera": "https://restcountries.eu/data/deu.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Ghana",
+        "capital": "Accra",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 27670174,
+        "bandera": "https://restcountries.eu/data/gha.svg",
+        "moneda": "Ghanaian cedi"
+    },
+    {
+        "pais" "Gibraltar",
+        "capital": "Gibraltar",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 33140,
+        "bandera": "https://restcountries.eu/data/gib.svg",
+        "moneda": "Gibraltar pound"
+    },
+    {
+        "pais" "Greece",
+        "capital": "Athens",
+        "idiomas": [
+            "Greek (modern)"
+        ],
+        "poblacion": 10858018,
+        "bandera": "https://restcountries.eu/data/grc.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Greenland",
+        "capital": "Nuuk",
+        "idiomas": [
+            "Kalaallisut"
+        ],
+        "poblacion": 55847,
+        "bandera": "https://restcountries.eu/data/grl.svg",
+        "moneda": "Danish krone"
+    },
+    {
+        "pais" "Grenada",
+        "capital": "St. George's",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 103328,
+        "bandera": "https://restcountries.eu/data/grd.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Guadeloupe",
+        "capital": "Basse-Terre",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 400132,
+        "bandera": "https://restcountries.eu/data/glp.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Guam",
+        "capital": "Hagåtña",
+        "idiomas": [
+            "English",
+            "Chamorro",
+            "Spanish"
+        ],
+        "poblacion": 184200,
+        "bandera": "https://restcountries.eu/data/gum.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Guatemala",
+        "capital": "Guatemala City",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 16176133,
+        "bandera": "https://restcountries.eu/data/gtm.svg",
+        "moneda": "Guatemalan quetzal"
+    },
+    {
+        "pais" "Guernsey",
+        "capital": "St. Peter Port",
+        "idiomas": [
+            "English",
+            "French"
+        ],
+        "poblacion": 62999,
+        "bandera": "https://restcountries.eu/data/ggy.svg",
+        "moneda": "British pound"
+    },
+    {
+        "pais" "Guinea",
+        "capital": "Conakry",
+        "idiomas": [
+            "French",
+            "Fula"
+        ],
+        "poblacion": 12947000,
+        "bandera": "https://restcountries.eu/data/gin.svg",
+        "moneda": "Guinean franc"
+    },
+    {
+        "pais" "Guinea-Bissau",
+        "capital": "Bissau",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 1547777,
+        "bandera": "https://restcountries.eu/data/gnb.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Guyana",
+        "capital": "Georgetown",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 746900,
+        "bandera": "https://restcountries.eu/data/guy.svg",
+        "moneda": "Guyanese dollar"
+    },
+    {
+        "pais" "Haiti",
+        "capital": "Port-au-Prince",
+        "idiomas": [
+            "French",
+            "Haitian"
+        ],
+        "poblacion": 11078033,
+        "bandera": "https://restcountries.eu/data/hti.svg",
+        "moneda": "Haitian gourde"
+    },
+    {
+        "pais" "Heard Island and McDonald Islands",
+        "capital": "",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 0,
+        "bandera": "https://restcountries.eu/data/hmd.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Holy See",
+        "capital": "Rome",
+        "idiomas": [
+            "Latin",
+            "Italian",
+            "French",
+            "German"
+        ],
+        "poblacion": 451,
+        "bandera": "https://restcountries.eu/data/vat.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Honduras",
+        "capital": "Tegucigalpa",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 8576532,
+        "bandera": "https://restcountries.eu/data/hnd.svg",
+        "moneda": "Honduran lempira"
+    },
+    {
+        "pais" "Hong Kong",
+        "capital": "City of Victoria",
+        "idiomas": [
+            "English",
+            "Chinese"
+        ],
+        "poblacion": 7324300,
+        "bandera": "https://restcountries.eu/data/hkg.svg",
+        "moneda": "Hong Kong dollar"
+    },
+    {
+        "pais" "Hungary",
+        "capital": "Budapest",
+        "idiomas": [
+            "Hungarian"
+        ],
+        "poblacion": 9823000,
+        "bandera": "https://restcountries.eu/data/hun.svg",
+        "moneda": "Hungarian forint"
+    },
+    {
+        "pais" "Iceland",
+        "capital": "Reykjavík",
+        "idiomas": [
+            "Icelandic"
+        ],
+        "poblacion": 334300,
+        "bandera": "https://restcountries.eu/data/isl.svg",
+        "moneda": "Icelandic króna"
+    },
+    {
+        "pais" "India",
+        "capital": "New Delhi",
+        "idiomas": [
+            "Hindi",
+            "English"
+        ],
+        "poblacion": 1295210000,
+        "bandera": "https://restcountries.eu/data/ind.svg",
+        "moneda": "Indian rupee"
+    },
+    {
+        "pais" "Indonesia",
+        "capital": "Jakarta",
+        "idiomas": [
+            "Indonesian"
+        ],
+        "poblacion": 258705000,
+        "bandera": "https://restcountries.eu/data/idn.svg",
+        "moneda": "Indonesian rupiah"
+    },
+    {
+        "pais" "Côte d'Ivoire",
+        "capital": "Yamoussoukro",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 22671331,
+        "bandera": "https://restcountries.eu/data/civ.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Iran (Islamic Republic of)",
+        "capital": "Tehran",
+        "idiomas": [
+            "Persian (Farsi)"
+        ],
+        "poblacion": 79369900,
+        "bandera": "https://restcountries.eu/data/irn.svg",
+        "moneda": "Iranian rial"
+    },
+    {
+        "pais" "Iraq",
+        "capital": "Baghdad",
+        "idiomas": [
+            "Arabic",
+            "Kurdish"
+        ],
+        "poblacion": 37883543,
+        "bandera": "https://restcountries.eu/data/irq.svg",
+        "moneda": "Iraqi dinar"
+    },
+    {
+        "pais" "Ireland",
+        "capital": "Dublin",
+        "idiomas": [
+            "Irish",
+            "English"
+        ],
+        "poblacion": 6378000,
+        "bandera": "https://restcountries.eu/data/irl.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Isle of Man",
+        "capital": "Douglas",
+        "idiomas": [
+            "English",
+            "Manx"
+        ],
+        "poblacion": 84497,
+        "bandera": "https://restcountries.eu/data/imn.svg",
+        "moneda": "British pound"
+    },
+    {
+        "pais" "Israel",
+        "capital": "Jerusalem",
+        "idiomas": [
+            "Hebrew (modern)",
+            "Arabic"
+        ],
+        "poblacion": 8527400,
+        "bandera": "https://restcountries.eu/data/isr.svg",
+        "moneda": "Israeli new shekel"
+    },
+    {
+        "pais" "Italy",
+        "capital": "Rome",
+        "idiomas": [
+            "Italian"
+        ],
+        "poblacion": 60665551,
+        "bandera": "https://restcountries.eu/data/ita.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Jamaica",
+        "capital": "Kingston",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 2723246,
+        "bandera": "https://restcountries.eu/data/jam.svg",
+        "moneda": "Jamaican dollar"
+    },
+    {
+        "pais" "Japan",
+        "capital": "Tokyo",
+        "idiomas": [
+            "Japanese"
+        ],
+        "poblacion": 126960000,
+        "bandera": "https://restcountries.eu/data/jpn.svg",
+        "moneda": "Japanese yen"
+    },
+    {
+        "pais" "Jersey",
+        "capital": "Saint Helier",
+        "idiomas": [
+            "English",
+            "French"
+        ],
+        "poblacion": 100800,
+        "bandera": "https://restcountries.eu/data/jey.svg",
+        "moneda": "British pound"
+    },
+    {
+        "pais" "Jordan",
+        "capital": "Amman",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 9531712,
+        "bandera": "https://restcountries.eu/data/jor.svg",
+        "moneda": "Jordanian dinar"
+    },
+    {
+        "pais" "Kazakhstan",
+        "capital": "Astana",
+        "idiomas": [
+            "Kazakh",
+            "Russian"
+        ],
+        "poblacion": 17753200,
+        "bandera": "https://restcountries.eu/data/kaz.svg",
+        "moneda": "Kazakhstani tenge"
+    },
+    {
+        "pais" "Kenya",
+        "capital": "Nairobi",
+        "idiomas": [
+            "English",
+            "Swahili"
+        ],
+        "poblacion": 47251000,
+        "bandera": "https://restcountries.eu/data/ken.svg",
+        "moneda": "Kenyan shilling"
+    },
+    {
+        "pais" "Kiribati",
+        "capital": "South Tarawa",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 113400,
+        "bandera": "https://restcountries.eu/data/kir.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Kuwait",
+        "capital": "Kuwait City",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 4183658,
+        "bandera": "https://restcountries.eu/data/kwt.svg",
+        "moneda": "Kuwaiti dinar"
+    },
+    {
+        "pais" "Kyrgyzstan",
+        "capital": "Bishkek",
+        "idiomas": [
+            "Kyrgyz",
+            "Russian"
+        ],
+        "poblacion": 6047800,
+        "bandera": "https://restcountries.eu/data/kgz.svg",
+        "moneda": "Kyrgyzstani som"
+    },
+    {
+        "pais" "Lao People's Democratic Republic",
+        "capital": "Vientiane",
+        "idiomas": [
+            "Lao"
+        ],
+        "poblacion": 6492400,
+        "bandera": "https://restcountries.eu/data/lao.svg",
+        "moneda": "Lao kip"
+    },
+    {
+        "pais" "Latvia",
+        "capital": "Riga",
+        "idiomas": [
+            "Latvian"
+        ],
+        "poblacion": 1961600,
+        "bandera": "https://restcountries.eu/data/lva.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Lebanon",
+        "capital": "Beirut",
+        "idiomas": [
+            "Arabic",
+            "French"
+        ],
+        "poblacion": 5988000,
+        "bandera": "https://restcountries.eu/data/lbn.svg",
+        "moneda": "Lebanese pound"
+    },
+    {
+        "pais" "Lesotho",
+        "capital": "Maseru",
+        "idiomas": [
+            "English",
+            "Southern Sotho"
+        ],
+        "poblacion": 1894194,
+        "bandera": "https://restcountries.eu/data/lso.svg",
+        "moneda": "Lesotho loti"
+    },
+    {
+        "pais" "Liberia",
+        "capital": "Monrovia",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 4615000,
+        "bandera": "https://restcountries.eu/data/lbr.svg",
+        "moneda": "Liberian dollar"
+    },
+    {
+        "pais" "Libya",
+        "capital": "Tripoli",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 6385000,
+        "bandera": "https://restcountries.eu/data/lby.svg",
+        "moneda": "Libyan dinar"
+    },
+    {
+        "pais" "Liechtenstein",
+        "capital": "Vaduz",
+        "idiomas": [
+            "German"
+        ],
+        "poblacion": 37623,
+        "bandera": "https://restcountries.eu/data/lie.svg",
+        "moneda": "Swiss franc"
+    },
+    {
+        "pais" "Lithuania",
+        "capital": "Vilnius",
+        "idiomas": [
+            "Lithuanian"
+        ],
+        "poblacion": 2872294,
+        "bandera": "https://restcountries.eu/data/ltu.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Luxembourg",
+        "capital": "Luxembourg",
+        "idiomas": [
+            "French",
+            "German",
+            "Luxembourgish"
+        ],
+        "poblacion": 576200,
+        "bandera": "https://restcountries.eu/data/lux.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Macao",
+        "capital": "",
+        "idiomas": [
+            "Chinese",
+            "Portuguese"
+        ],
+        "poblacion": 649100,
+        "bandera": "https://restcountries.eu/data/mac.svg",
+        "moneda": "Macanese pataca"
+    },
+    {
+        "pais" "Macedonia (the former Yugoslav Republic of)",
+        "capital": "Skopje",
+        "idiomas": [
+            "Macedonian"
+        ],
+        "poblacion": 2058539,
+        "bandera": "https://restcountries.eu/data/mkd.svg",
+        "moneda": "Macedonian denar"
+    },
+    {
+        "pais" "Madagascar",
+        "capital": "Antananarivo",
+        "idiomas": [
+            "French",
+            "Malagasy"
+        ],
+        "poblacion": 22434363,
+        "bandera": "https://restcountries.eu/data/mdg.svg",
+        "moneda": "Malagasy ariary"
+    },
+    {
+        "pais" "Malawi",
+        "capital": "Lilongwe",
+        "idiomas": [
+            "English",
+            "Chichewa"
+        ],
+        "poblacion": 16832910,
+        "bandera": "https://restcountries.eu/data/mwi.svg",
+        "moneda": "Malawian kwacha"
+    },
+    {
+        "pais" "Malaysia",
+        "capital": "Kuala Lumpur",
+        "idiomas": [
+            "Malaysian"
+        ],
+        "poblacion": 31405416,
+        "bandera": "https://restcountries.eu/data/mys.svg",
+        "moneda": "Malaysian ringgit"
+    },
+    {
+        "pais" "Maldives",
+        "capital": "Malé",
+        "idiomas": [
+            "Divehi"
+        ],
+        "poblacion": 344023,
+        "bandera": "https://restcountries.eu/data/mdv.svg",
+        "moneda": "Maldivian rufiyaa"
+    },
+    {
+        "pais" "Mali",
+        "capital": "Bamako",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 18135000,
+        "bandera": "https://restcountries.eu/data/mli.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Malta",
+        "capital": "Valletta",
+        "idiomas": [
+            "Maltese",
+            "English"
+        ],
+        "poblacion": 425384,
+        "bandera": "https://restcountries.eu/data/mlt.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Marshall Islands",
+        "capital": "Majuro",
+        "idiomas": [
+            "English",
+            "Marshallese"
+        ],
+        "poblacion": 54880,
+        "bandera": "https://restcountries.eu/data/mhl.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Martinique",
+        "capital": "Fort-de-France",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 378243,
+        "bandera": "https://restcountries.eu/data/mtq.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Mauritania",
+        "capital": "Nouakchott",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 3718678,
+        "bandera": "https://restcountries.eu/data/mrt.svg",
+        "moneda": "Mauritanian ouguiya"
+    },
+    {
+        "pais" "Mauritius",
+        "capital": "Port Louis",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 1262879,
+        "bandera": "https://restcountries.eu/data/mus.svg",
+        "moneda": "Mauritian rupee"
+    },
+    {
+        "pais" "Mayotte",
+        "capital": "Mamoudzou",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 226915,
+        "bandera": "https://restcountries.eu/data/myt.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Mexico",
+        "capital": "Mexico City",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 122273473,
+        "bandera": "https://restcountries.eu/data/mex.svg",
+        "moneda": "Mexican peso"
+    },
+    {
+        "pais" "Micronesia (Federated States of)",
+        "capital": "Palikir",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 102800,
+        "bandera": "https://restcountries.eu/data/fsm.svg",
+        "moneda": "[D]"
+    },
+    {
+        "pais" "Moldova (Republic of)",
+        "capital": "Chișinău",
+        "idiomas": [
+            "Romanian"
+        ],
+        "poblacion": 3553100,
+        "bandera": "https://restcountries.eu/data/mda.svg",
+        "moneda": "Moldovan leu"
+    },
+    {
+        "pais" "Monaco",
+        "capital": "Monaco",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 38400,
+        "bandera": "https://restcountries.eu/data/mco.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Mongolia",
+        "capital": "Ulan Bator",
+        "idiomas": [
+            "Mongolian"
+        ],
+        "poblacion": 3093100,
+        "bandera": "https://restcountries.eu/data/mng.svg",
+        "moneda": "Mongolian tögrög"
+    },
+    {
+        "pais" "Montenegro",
+        "capital": "Podgorica",
+        "idiomas": [
+            "Serbian",
+            "Bosnian",
+            "Albanian",
+            "Croatian"
+        ],
+        "poblacion": 621810,
+        "bandera": "https://restcountries.eu/data/mne.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Montserrat",
+        "capital": "Plymouth",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 4922,
+        "bandera": "https://restcountries.eu/data/msr.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Morocco",
+        "capital": "Rabat",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 33337529,
+        "bandera": "https://restcountries.eu/data/mar.svg",
+        "moneda": "Moroccan dirham"
+    },
+    {
+        "pais" "Mozambique",
+        "capital": "Maputo",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 26423700,
+        "bandera": "https://restcountries.eu/data/moz.svg",
+        "moneda": "Mozambican metical"
+    },
+    {
+        "pais" "Myanmar",
+        "capital": "Naypyidaw",
+        "idiomas": [
+            "Burmese"
+        ],
+        "poblacion": 51419420,
+        "bandera": "https://restcountries.eu/data/mmr.svg",
+        "moneda": "Burmese kyat"
+    },
+    {
+        "pais" "Namibia",
+        "capital": "Windhoek",
+        "idiomas": [
+            "English",
+            "Afrikaans"
+        ],
+        "poblacion": 2324388,
+        "bandera": "https://restcountries.eu/data/nam.svg",
+        "moneda": "Namibian dollar"
+    },
+    {
+        "pais" "Nauru",
+        "capital": "Yaren",
+        "idiomas": [
+            "English",
+            "Nauruan"
+        ],
+        "poblacion": 10084,
+        "bandera": "https://restcountries.eu/data/nru.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Nepal",
+        "capital": "Kathmandu",
+        "idiomas": [
+            "Nepali"
+        ],
+        "poblacion": 28431500,
+        "bandera": "https://restcountries.eu/data/npl.svg",
+        "moneda": "Nepalese rupee"
+    },
+    {
+        "pais" "Netherlands",
+        "capital": "Amsterdam",
+        "idiomas": [
+            "Dutch"
+        ],
+        "poblacion": 17019800,
+        "bandera": "https://restcountries.eu/data/nld.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "New Caledonia",
+        "capital": "Nouméa",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 268767,
+        "bandera": "https://restcountries.eu/data/ncl.svg",
+        "moneda": "CFP franc"
+    },
+    {
+        "pais" "New Zealand",
+        "capital": "Wellington",
+        "idiomas": [
+            "English",
+            "Māori"
+        ],
+        "poblacion": 4697854,
+        "bandera": "https://restcountries.eu/data/nzl.svg",
+        "moneda": "New Zealand dollar"
+    },
+    {
+        "pais" "Nicaragua",
+        "capital": "Managua",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 6262703,
+        "bandera": "https://restcountries.eu/data/nic.svg",
+        "moneda": "Nicaraguan córdoba"
+    },
+    {
+        "pais" "Niger",
+        "capital": "Niamey",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 20715000,
+        "bandera": "https://restcountries.eu/data/ner.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Nigeria",
+        "capital": "Abuja",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 186988000,
+        "bandera": "https://restcountries.eu/data/nga.svg",
+        "moneda": "Nigerian naira"
+    },
+    {
+        "pais" "Niue",
+        "capital": "Alofi",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 1470,
+        "bandera": "https://restcountries.eu/data/niu.svg",
+        "moneda": "New Zealand dollar"
+    },
+    {
+        "pais" "Norfolk Island",
+        "capital": "Kingston",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 2302,
+        "bandera": "https://restcountries.eu/data/nfk.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Korea (Democratic People's Republic of)",
+        "capital": "Pyongyang",
+        "idiomas": [
+            "Korean"
+        ],
+        "poblacion": 25281000,
+        "bandera": "https://restcountries.eu/data/prk.svg",
+        "moneda": "North Korean won"
+    },
+    {
+        "pais" "Northern Mariana Islands",
+        "capital": "Saipan",
+        "idiomas": [
+            "English",
+            "Chamorro"
+        ],
+        "poblacion": 56940,
+        "bandera": "https://restcountries.eu/data/mnp.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Norway",
+        "capital": "Oslo",
+        "idiomas": [
+            "Norwegian",
+            "Norwegian Bokmål",
+            "Norwegian Nynorsk"
+        ],
+        "poblacion": 5223256,
+        "bandera": "https://restcountries.eu/data/nor.svg",
+        "moneda": "Norwegian krone"
+    },
+    {
+        "pais" "Oman",
+        "capital": "Muscat",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 4420133,
+        "bandera": "https://restcountries.eu/data/omn.svg",
+        "moneda": "Omani rial"
+    },
+    {
+        "pais" "Pakistan",
+        "capital": "Islamabad",
+        "idiomas": [
+            "English",
+            "Urdu"
+        ],
+        "poblacion": 194125062,
+        "bandera": "https://restcountries.eu/data/pak.svg",
+        "moneda": "Pakistani rupee"
+    },
+    {
+        "pais" "Palau",
+        "capital": "Ngerulmud",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 17950,
+        "bandera": "https://restcountries.eu/data/plw.svg",
+        "moneda": "[E]"
+    },
+    {
+        "pais" "Palestine, State of",
+        "capital": "Ramallah",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 4682467,
+        "bandera": "https://restcountries.eu/data/pse.svg",
+        "moneda": "Israeli new sheqel"
+    },
+    {
+        "pais" "Panama",
+        "capital": "Panama City",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 3814672,
+        "bandera": "https://restcountries.eu/data/pan.svg",
+        "moneda": "Panamanian balboa"
+    },
+    {
+        "pais" "Papua New Guinea",
+        "capital": "Port Moresby",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 8083700,
+        "bandera": "https://restcountries.eu/data/png.svg",
+        "moneda": "Papua New Guinean kina"
+    },
+    {
+        "pais" "Paraguay",
+        "capital": "Asunción",
+        "idiomas": [
+            "Spanish",
+            "Guaraní"
+        ],
+        "poblacion": 6854536,
+        "bandera": "https://restcountries.eu/data/pry.svg",
+        "moneda": "Paraguayan guaraní"
+    },
+    {
+        "pais" "Peru",
+        "capital": "Lima",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 31488700,
+        "bandera": "https://restcountries.eu/data/per.svg",
+        "moneda": "Peruvian sol"
+    },
+    {
+        "pais" "Philippines",
+        "capital": "Manila",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 103279800,
+        "bandera": "https://restcountries.eu/data/phl.svg",
+        "moneda": "Philippine peso"
+    },
+    {
+        "pais" "Pitcairn",
+        "capital": "Adamstown",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 56,
+        "bandera": "https://restcountries.eu/data/pcn.svg",
+        "moneda": "New Zealand dollar"
+    },
+    {
+        "pais" "Poland",
+        "capital": "Warsaw",
+        "idiomas": [
+            "Polish"
+        ],
+        "poblacion": 38437239,
+        "bandera": "https://restcountries.eu/data/pol.svg",
+        "moneda": "Polish złoty"
+    },
+    {
+        "pais" "Portugal",
+        "capital": "Lisbon",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 10374822,
+        "bandera": "https://restcountries.eu/data/prt.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Puerto Rico",
+        "capital": "San Juan",
+        "idiomas": [
+            "Spanish",
+            "English"
+        ],
+        "poblacion": 3474182,
+        "bandera": "https://restcountries.eu/data/pri.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Qatar",
+        "capital": "Doha",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 2587564,
+        "bandera": "https://restcountries.eu/data/qat.svg",
+        "moneda": "Qatari riyal"
+    },
+    {
+        "pais" "Republic of Kosovo",
+        "capital": "Pristina",
+        "idiomas": [
+            "Albanian",
+            "Serbian"
+        ],
+        "poblacion": 1733842,
+        "bandera": "https://restcountries.eu/data/kos.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Réunion",
+        "capital": "Saint-Denis",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 840974,
+        "bandera": "https://restcountries.eu/data/reu.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Romania",
+        "capital": "Bucharest",
+        "idiomas": [
+            "Romanian"
+        ],
+        "poblacion": 19861408,
+        "bandera": "https://restcountries.eu/data/rou.svg",
+        "moneda": "Romanian leu"
+    },
+    {
+        "pais" "Russian Federation",
+        "capital": "Moscow",
+        "idiomas": [
+            "Russian"
+        ],
+        "poblacion": 146599183,
+        "bandera": "https://restcountries.eu/data/rus.svg",
+        "moneda": "Russian ruble"
+    },
+    {
+        "pais" "Rwanda",
+        "capital": "Kigali",
+        "idiomas": [
+            "Kinyarwanda",
+            "English",
+            "French"
+        ],
+        "poblacion": 11553188,
+        "bandera": "https://restcountries.eu/data/rwa.svg",
+        "moneda": "Rwandan franc"
+    },
+    {
+        "pais" "Saint Barthélemy",
+        "capital": "Gustavia",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 9417,
+        "bandera": "https://restcountries.eu/data/blm.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 4255,
+        "bandera": "https://restcountries.eu/data/shn.svg",
+        "moneda": "Saint Helena pound"
+    },
+    {
+        "pais" "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 46204,
+        "bandera": "https://restcountries.eu/data/kna.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Saint Lucia",
+        "capital": "Castries",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 186000,
+        "bandera": "https://restcountries.eu/data/lca.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Saint Martin (French part)",
+        "capital": "Marigot",
+        "idiomas": [
+            "English",
+            "French",
+            "Dutch"
+        ],
+        "poblacion": 36979,
+        "bandera": "https://restcountries.eu/data/maf.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 6069,
+        "bandera": "https://restcountries.eu/data/spm.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 109991,
+        "bandera": "https://restcountries.eu/data/vct.svg",
+        "moneda": "East Caribbean dollar"
+    },
+    {
+        "pais" "Samoa",
+        "capital": "Apia",
+        "idiomas": [
+            "Samoan",
+            "English"
+        ],
+        "poblacion": 194899,
+        "bandera": "https://restcountries.eu/data/wsm.svg",
+        "moneda": "Samoan tālā"
+    },
+    {
+        "pais" "San Marino",
+        "capital": "City of San Marino",
+        "idiomas": [
+            "Italian"
+        ],
+        "poblacion": 33005,
+        "bandera": "https://restcountries.eu/data/smr.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Sao Tome and Principe",
+        "capital": "São Tomé",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 187356,
+        "bandera": "https://restcountries.eu/data/stp.svg",
+        "moneda": "São Tomé and Príncipe dobra"
+    },
+    {
+        "pais" "Saudi Arabia",
+        "capital": "Riyadh",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 32248200,
+        "bandera": "https://restcountries.eu/data/sau.svg",
+        "moneda": "Saudi riyal"
+    },
+    {
+        "pais" "Senegal",
+        "capital": "Dakar",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 14799859,
+        "bandera": "https://restcountries.eu/data/sen.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Serbia",
+        "capital": "Belgrade",
+        "idiomas": [
+            "Serbian"
+        ],
+        "poblacion": 7076372,
+        "bandera": "https://restcountries.eu/data/srb.svg",
+        "moneda": "Serbian dinar"
+    },
+    {
+        "pais" "Seychelles",
+        "capital": "Victoria",
+        "idiomas": [
+            "French",
+            "English"
+        ],
+        "poblacion": 91400,
+        "bandera": "https://restcountries.eu/data/syc.svg",
+        "moneda": "Seychellois rupee"
+    },
+    {
+        "pais" "Sierra Leone",
+        "capital": "Freetown",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 7075641,
+        "bandera": "https://restcountries.eu/data/sle.svg",
+        "moneda": "Sierra Leonean leone"
+    },
+    {
+        "pais" "Singapore",
+        "capital": "Singapore",
+        "idiomas": [
+            "English",
+            "Malay",
+            "Tamil",
+            "Chinese"
+        ],
+        "poblacion": 5535000,
+        "bandera": "https://restcountries.eu/data/sgp.svg",
+        "moneda": "Brunei dollar"
+    },
+    {
+        "pais" "Sint Maarten (Dutch part)",
+        "capital": "Philipsburg",
+        "idiomas": [
+            "Dutch",
+            "English"
+        ],
+        "poblacion": 38247,
+        "bandera": "https://restcountries.eu/data/sxm.svg",
+        "moneda": "Netherlands Antillean guilder"
+    },
+    {
+        "pais" "Slovakia",
+        "capital": "Bratislava",
+        "idiomas": [
+            "Slovak"
+        ],
+        "poblacion": 5426252,
+        "bandera": "https://restcountries.eu/data/svk.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Slovenia",
+        "capital": "Ljubljana",
+        "idiomas": [
+            "Slovene"
+        ],
+        "poblacion": 2064188,
+        "bandera": "https://restcountries.eu/data/svn.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Solomon Islands",
+        "capital": "Honiara",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 642000,
+        "bandera": "https://restcountries.eu/data/slb.svg",
+        "moneda": "Solomon Islands dollar"
+    },
+    {
+        "pais" "Somalia",
+        "capital": "Mogadishu",
+        "idiomas": [
+            "Somali",
+            "Arabic"
+        ],
+        "poblacion": 11079000,
+        "bandera": "https://restcountries.eu/data/som.svg",
+        "moneda": "Somali shilling"
+    },
+    {
+        "pais" "South Africa",
+        "capital": "Pretoria",
+        "idiomas": [
+            "Afrikaans",
+            "English",
+            "Southern Ndebele",
+            "Southern Sotho",
+            "Swati",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zulu"
+        ],
+        "poblacion": 55653654,
+        "bandera": "https://restcountries.eu/data/zaf.svg",
+        "moneda": "South African rand"
+    },
+    {
+        "pais" "South Georgia and the South Sandwich Islands",
+        "capital": "King Edward Point",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 30,
+        "bandera": "https://restcountries.eu/data/sgs.svg",
+        "moneda": "British pound"
+    },
+    {
+        "pais" "Korea (Republic of)",
+        "capital": "Seoul",
+        "idiomas": [
+            "Korean"
+        ],
+        "poblacion": 50801405,
+        "bandera": "https://restcountries.eu/data/kor.svg",
+        "moneda": "South Korean won"
+    },
+    {
+        "pais" "South Sudan",
+        "capital": "Juba",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 12131000,
+        "bandera": "https://restcountries.eu/data/ssd.svg",
+        "moneda": "South Sudanese pound"
+    },
+    {
+        "pais" "Spain",
+        "capital": "Madrid",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 46438422,
+        "bandera": "https://restcountries.eu/data/esp.svg",
+        "moneda": "Euro"
+    },
+    {
+        "pais" "Sri Lanka",
+        "capital": "Colombo",
+        "idiomas": [
+            "Sinhalese",
+            "Tamil"
+        ],
+        "poblacion": 20966000,
+        "bandera": "https://restcountries.eu/data/lka.svg",
+        "moneda": "Sri Lankan rupee"
+    },
+    {
+        "pais" "Sudan",
+        "capital": "Khartoum",
+        "idiomas": [
+            "Arabic",
+            "English"
+        ],
+        "poblacion": 39598700,
+        "bandera": "https://restcountries.eu/data/sdn.svg",
+        "moneda": "Sudanese pound"
+    },
+    {
+        "pais" "Suriname",
+        "capital": "Paramaribo",
+        "idiomas": [
+            "Dutch"
+        ],
+        "poblacion": 541638,
+        "bandera": "https://restcountries.eu/data/sur.svg",
+        "moneda": "Surinamese dollar"
+    },
+    {
+        "pais" "Svalbard and Jan Mayen",
+        "capital": "Longyearbyen",
+        "idiomas": [
+            "Norwegian"
+        ],
+        "poblacion": 2562,
+        "bandera": "https://restcountries.eu/data/sjm.svg",
+        "moneda": "Norwegian krone"
+    },
+    {
+        "pais" "Swaziland",
+        "capital": "Lobamba",
+        "idiomas": [
+            "English",
+            "Swati"
+        ],
+        "poblacion": 1132657,
+        "bandera": "https://restcountries.eu/data/swz.svg",
+        "moneda": "Swazi lilangeni"
+    },
+    {
+        "pais" "Sweden",
+        "capital": "Stockholm",
+        "idiomas": [
+            "Swedish"
+        ],
+        "poblacion": 9894888,
+        "bandera": "https://restcountries.eu/data/swe.svg",
+        "moneda": "Swedish krona"
+    },
+    {
+        "pais" "Switzerland",
+        "capital": "Bern",
+        "idiomas": [
+            "German",
+            "French",
+            "Italian"
+        ],
+        "poblacion": 8341600,
+        "bandera": "https://restcountries.eu/data/che.svg",
+        "moneda": "Swiss franc"
+    },
+    {
+        "pais" "Syrian Arab Republic",
+        "capital": "Damascus",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 18564000,
+        "bandera": "https://restcountries.eu/data/syr.svg",
+        "moneda": "Syrian pound"
+    },
+    {
+        "pais" "Taiwan",
+        "capital": "Taipei",
+        "idiomas": [
+            "Chinese"
+        ],
+        "poblacion": 23503349,
+        "bandera": "https://restcountries.eu/data/twn.svg",
+        "moneda": "New Taiwan dollar"
+    },
+    {
+        "pais" "Tajikistan",
+        "capital": "Dushanbe",
+        "idiomas": [
+            "Tajik",
+            "Russian"
+        ],
+        "poblacion": 8593600,
+        "bandera": "https://restcountries.eu/data/tjk.svg",
+        "moneda": "Tajikistani somoni"
+    },
+    {
+        "pais" "Tanzania, United Republic of",
+        "capital": "Dodoma",
+        "idiomas": [
+            "Swahili",
+            "English"
+        ],
+        "poblacion": 55155000,
+        "bandera": "https://restcountries.eu/data/tza.svg",
+        "moneda": "Tanzanian shilling"
+    },
+    {
+        "pais" "Thailand",
+        "capital": "Bangkok",
+        "idiomas": [
+            "Thai"
+        ],
+        "poblacion": 65327652,
+        "bandera": "https://restcountries.eu/data/tha.svg",
+        "moneda": "Thai baht"
+    },
+    {
+        "pais" "Timor-Leste",
+        "capital": "Dili",
+        "idiomas": [
+            "Portuguese"
+        ],
+        "poblacion": 1167242,
+        "bandera": "https://restcountries.eu/data/tls.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Togo",
+        "capital": "Lomé",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 7143000,
+        "bandera": "https://restcountries.eu/data/tgo.svg",
+        "moneda": "West African CFA franc"
+    },
+    {
+        "pais" "Tokelau",
+        "capital": "Fakaofo",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 1411,
+        "bandera": "https://restcountries.eu/data/tkl.svg",
+        "moneda": "New Zealand dollar"
+    },
+    {
+        "pais" "Tonga",
+        "capital": "Nuku'alofa",
+        "idiomas": [
+            "English",
+            "Tonga (Tonga Islands)"
+        ],
+        "poblacion": 103252,
+        "bandera": "https://restcountries.eu/data/ton.svg",
+        "moneda": "Tongan paʻanga"
+    },
+    {
+        "pais" "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 1349667,
+        "bandera": "https://restcountries.eu/data/tto.svg",
+        "moneda": "Trinidad and Tobago dollar"
+    },
+    {
+        "pais" "Tunisia",
+        "capital": "Tunis",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 11154400,
+        "bandera": "https://restcountries.eu/data/tun.svg",
+        "moneda": "Tunisian dinar"
+    },
+    {
+        "pais" "Turkey",
+        "capital": "Ankara",
+        "idiomas": [
+            "Turkish"
+        ],
+        "poblacion": 78741053,
+        "bandera": "https://restcountries.eu/data/tur.svg",
+        "moneda": "Turkish lira"
+    },
+    {
+        "pais" "Turkmenistan",
+        "capital": "Ashgabat",
+        "idiomas": [
+            "Turkmen",
+            "Russian"
+        ],
+        "poblacion": 4751120,
+        "bandera": "https://restcountries.eu/data/tkm.svg",
+        "moneda": "Turkmenistan manat"
+    },
+    {
+        "pais" "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 31458,
+        "bandera": "https://restcountries.eu/data/tca.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Tuvalu",
+        "capital": "Funafuti",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 10640,
+        "bandera": "https://restcountries.eu/data/tuv.svg",
+        "moneda": "Australian dollar"
+    },
+    {
+        "pais" "Uganda",
+        "capital": "Kampala",
+        "idiomas": [
+            "English",
+            "Swahili"
+        ],
+        "poblacion": 33860700,
+        "bandera": "https://restcountries.eu/data/uga.svg",
+        "moneda": "Ugandan shilling"
+    },
+    {
+        "pais" "Ukraine",
+        "capital": "Kiev",
+        "idiomas": [
+            "Ukrainian"
+        ],
+        "poblacion": 42692393,
+        "bandera": "https://restcountries.eu/data/ukr.svg",
+        "moneda": "Ukrainian hryvnia"
+    },
+    {
+        "pais" "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 9856000,
+        "bandera": "https://restcountries.eu/data/are.svg",
+        "moneda": "United Arab Emirates dirham"
+    },
+    {
+        "pais" "United Kingdom of Great Britain and Northern Ireland",
+        "capital": "London",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 65110000,
+        "bandera": "https://restcountries.eu/data/gbr.svg",
+        "moneda": "British pound"
+    },
+    {
+        "pais" "United States of America",
+        "capital": "Washington, D.C.",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 323947000,
+        "bandera": "https://restcountries.eu/data/usa.svg",
+        "moneda": "United States dollar"
+    },
+    {
+        "pais" "Uruguay",
+        "capital": "Montevideo",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 3480222,
+        "bandera": "https://restcountries.eu/data/ury.svg",
+        "moneda": "Uruguayan peso"
+    },
+    {
+        "pais" "Uzbekistan",
+        "capital": "Tashkent",
+        "idiomas": [
+            "Uzbek",
+            "Russian"
+        ],
+        "poblacion": 31576400,
+        "bandera": "https://restcountries.eu/data/uzb.svg",
+        "moneda": "Uzbekistani so'm"
+    },
+    {
+        "pais" "Vanuatu",
+        "capital": "Port Vila",
+        "idiomas": [
+            "Bislama",
+            "English",
+            "French"
+        ],
+        "poblacion": 277500,
+        "bandera": "https://restcountries.eu/data/vut.svg",
+        "moneda": "Vanuatu vatu"
+    },
+    {
+        "pais" "Venezuela (Bolivarian Republic of)",
+        "capital": "Caracas",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 31028700,
+        "bandera": "https://restcountries.eu/data/ven.svg",
+        "moneda": "Venezuelan bolívar"
+    },
+    {
+        "pais" "Viet Nam",
+        "capital": "Hanoi",
+        "idiomas": [
+            "Vietnamese"
+        ],
+        "poblacion": 92700000,
+        "bandera": "https://restcountries.eu/data/vnm.svg",
+        "moneda": "Vietnamese đồng"
+    },
+    {
+        "pais" "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "idiomas": [
+            "French"
+        ],
+        "poblacion": 11750,
+        "bandera": "https://restcountries.eu/data/wlf.svg",
+        "moneda": "CFP franc"
+    },
+    {
+        "pais" "Western Sahara",
+        "capital": "El Aaiún",
+        "idiomas": [
+            "Spanish"
+        ],
+        "poblacion": 510713,
+        "bandera": "https://restcountries.eu/data/esh.svg",
+        "moneda": "Moroccan dirham"
+    },
+    {
+        "pais" "Yemen",
+        "capital": "Sana'a",
+        "idiomas": [
+            "Arabic"
+        ],
+        "poblacion": 27478000,
+        "bandera": "https://restcountries.eu/data/yem.svg",
+        "moneda": "Yemeni rial"
+    },
+    {
+        "pais" "Zambia",
+        "capital": "Lusaka",
+        "idiomas": [
+            "English"
+        ],
+        "poblacion": 15933883,
+        "bandera": "https://restcountries.eu/data/zmb.svg",
+        "moneda": "Zambian kwacha"
+    },
+    {
+        "pais" "Zimbabwe",
+        "capital": "Harare",
+        "idiomas": [
+            "English",
+            "Shona",
+            "Northern Ndebele"
+        ],
+        "poblacion": 14240168,
+        "bandera": "https://restcountries.eu/data/zwe.svg",
+        "moneda": "Botswana pula"
+    }
+]
